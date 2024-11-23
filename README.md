@@ -3,11 +3,11 @@
 nano ~/.local/share/nautilus/scripts/Create\ Symlink
 ```
 ### 2. Download the sc to script ' ~/.local/share/nautilus/scripts/' folder:
-### - using wget
+- using wget
 ```bash
 wget -O ~/.local/share/nautilus/scripts/Create\ Symlink https://raw.githubusercontent.com/rajibdpi/symblink/refs/heads/main/Create%20Symlink
 ```
-#### - using curl 
+- using curl 
 ```bash
 curl -o ~/.local/share/nautilus/scripts/Create\ Symlink https://raw.githubusercontent.com/rajibdpi/symblink/refs/heads/main/Create%20Symlink
 ```
