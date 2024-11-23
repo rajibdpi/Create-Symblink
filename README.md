@@ -1,6 +1,6 @@
 1. Open a terminal and create the file:
 ```bash
-nano ~/.local/share/nautilus/scripts/Create Symlink
+nano ~/.local/share/nautilus/scripts/Create\ Symlink
 ```
 
 2. Make the Script Executable
