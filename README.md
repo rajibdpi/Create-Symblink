@@ -2,6 +2,7 @@
 ```bash
 nano ~/.local/share/nautilus/scripts/Create\ Symlink
 ```
+2. Paste the following script:
 ```bash
 #!/bin/bash
 # Get the selected file or folder and ensure it's valid
@@ -63,12 +64,12 @@ else
 fi
 
 ```
-2. Make the Script Executable
+3. Make the Script Executable
 Run the following command to make the script executable:
 ```bash
 chmod +x ~/.local/share/nautilus/scripts/Create\ Symlink
 ```
-3. Restart Nautilus
+4. Restart Nautilus
 To ensure the script appears in the right-click context menu, restart Nautilus:
 
 ```bash
