@@ -3,6 +3,7 @@
 ~/.local/share/nautilus/scripts/
 ```
 ### 1. Download the script to this ' ~/.local/share/nautilus/scripts/' folder:
+- ### Open Terminal and run
 - using wget
 ```bash
 wget -O ~/.local/share/nautilus/scripts/Create\ Symlink https://raw.githubusercontent.com/rajibdpi/symblink/refs/heads/main/Create%20Symlink
