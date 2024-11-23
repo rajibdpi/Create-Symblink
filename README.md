@@ -1,4 +1,4 @@
-### Need to create 'Create\ Symlink' file in:
+### Need to create a file named 'Create\ Symlink':
 ```bash
 ~/.local/share/nautilus/scripts/
 ```
