@@ -2,7 +2,7 @@
 ```bash
 ~/.local/share/nautilus/scripts/
 ```
-### 1. Download the sc to script ' ~/.local/share/nautilus/scripts/' folder:
+### 1. Download the script to this ' ~/.local/share/nautilus/scripts/' folder:
 - using wget
 ```bash
 wget -O ~/.local/share/nautilus/scripts/Create\ Symlink https://raw.githubusercontent.com/rajibdpi/symblink/refs/heads/main/Create%20Symlink
