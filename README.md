@@ -3,7 +3,6 @@
 ```
 2. Make the Script Executable
 Run the following command to make the script executable:
-```
-bash
+```bash
 chmod +x ~/.local/share/nautilus/scripts/Create\ Symlink
 ```
